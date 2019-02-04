@@ -12,5 +12,9 @@ ls
 # Initialize a local git repository
 git init
 
+# Show everything present in the current directory, including hidden
+# files and folders
+ls -a
+
 # Show the status of the repository
 git status
